@@ -3,7 +3,7 @@
 	<showImages imagePath="pics/">
 		<slide image="image1.jpg">Image 1</slide>
 		<slide image="image2.jpg">Image 1</slide>
-		<slide image="image3.jpg">Image 1</slide>
+		
 		<slide image="image4.jpg">Image 1</slide>
 	</showImages>
 	
