@@ -2,8 +2,9 @@
 
 	<showImages imagePath="pics/">
 		<slide image="image1.jpg">Image 1</slide>
-		<slide image="image2.jpg">Image 1</slide>
-		
-		<slide image="image4.jpg">Image 1</slide>
+		<slide image="image2.jpg">Image 2</slide>	
+		<slide image="image3.jpg">Image 3</slide>
+		<slide image="image4.jpg">Image 4</slide>
+		<slide image="image5.jpg">Image 5</slide>
 	</showImages>
 	
